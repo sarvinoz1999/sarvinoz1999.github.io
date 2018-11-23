@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	background-image: url('sky.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    
+	font-size: 500%;
+	font-family: Algerian;
+	color: white;
+}
+p{
+	font-family: Cooper black;
+	color: white;
+}
+.movies img{
+	width: 800px;
+	height: 400px;
+}
